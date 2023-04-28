@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Cards_CRUD_Operation.props" />
+</Project>
